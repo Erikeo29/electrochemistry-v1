@@ -1,37 +1,32 @@
 # Bibliographie : Électrodéposition
 
-Références clés pour la modélisation de la distribution de courant et le dépôt électrolytique.
+Cette section regroupe les ouvrages de référence (souvent payants) et des ressources techniques en accès libre.
 
-## Ouvrages de Référence
+## 1. Ouvrages de Référence (Accès Restreint)
+*Ces livres sont les piliers de l'électrochimie industrielle.*
 
-### 1. La Référence Absolue (John Newman)
-L'ouvrage indispensable pour comprendre la distribution de courant (primaire, secondaire, tertiaire).
 > **Newman, J.; Thomas-Alyea, K. E.**
 > *"Electrochemical Systems"*, 3rd Edition.
 > Wiley-Interscience, **2004**.
-> 🔗 [Lien Wiley](https://www.wiley.com/en-us/Electrochemical+Systems%2C+3rd+Edition-p-9780471477563)
+> 🔗 [Lien Editeur](https://www.wiley.com/en-us/Electrochemical+Systems%2C+3rd+Edition-p-9780471477563) (Livre Payant)
 
-### 2. Électrodéposition Moderne
-Un guide complet sur la théorie et la pratique industrielle.
 > **Schlesinger, M.; Paunovic, M.**
 > *"Modern Electroplating"*, 5th Edition.
 > Wiley, **2010**.
-> 🔗 [Lien DOI (Livre)](https://doi.org/10.1002/9780470602638)
-
-## Articles Spécifiques (Distribution de Courant)
-
-### Simulation de la Distribution Secondaire
-> **Dukovic, J.**
-> *"Computation of Current Distribution in Electrodeposition, a Review."*
-> IBM Journal of Research and Development, **1990**, *34* (5), 693-705.
-> 🔗 [Lien DOI](https://doi.org/10.1147/rd.345.0693)
+> 🔗 [DOI: 10.1002/9780470602638](https://doi.org/10.1002/9780470602638) (Livre Payant)
 
 ---
 
-## Ressources Logicielles
+## 2. Ressources Techniques (Accès Libre)
+*Documents consultables gratuitement pour comprendre la modélisation.*
 
-### Antigravity (Python)
-(Note: Lien simulé pour ce projet interne, à remplacer si public)
-> **Antigravity Engine**
-> *"Proprietary solver for secondary current distribution."*
-> *Interne EQU Research*
+### Théorie de la Distribution de Courant
+> **COMSOL Multiphysics**
+> *"Theory of Current Distribution"*
+> Une documentation extrêmement détaillée sur les distributions primaire, secondaire et tertiaire avec schémas explicatifs.
+> 🔗 [Documentation en ligne (Gratuit)](https://www.comsol.com/multiphysics/current-distribution-theory)
+
+> **BioLogic Learning Center**
+> *"Current Distribution: Primary, Secondary and Tertiary"*
+> Note d'application pédagogique sur l'influence de la géométrie et de la cinétique.
+> 🔗 [Lien BioLogic (Gratuit)](https://www.biologic.net/topics/what-is-current-distribution-primary-secondary-and-tertiary-distributions/)

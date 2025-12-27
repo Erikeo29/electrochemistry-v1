@@ -1,37 +1,32 @@
 # Bibliography: Electroplating
 
-Key references for current distribution modeling and electrolytic deposition.
+This section gathers reference books (often requiring purchase) and open-access technical resources.
 
-## Reference Books
+## 1. Reference Books (Restricted Access)
+*These books are the pillars of industrial electrochemistry.*
 
-### 1. The Definitive Reference (John Newman)
-The essential book for understanding current distribution (primary, secondary, tertiary).
 > **Newman, J.; Thomas-Alyea, K. E.**
 > *"Electrochemical Systems"*, 3rd Edition.
 > Wiley-Interscience, **2004**.
-> 🔗 [Wiley Link](https://www.wiley.com/en-us/Electrochemical+Systems%2C+3rd+Edition-p-9780471477563)
+> 🔗 [Publisher Link](https://www.wiley.com/en-us/Electrochemical+Systems%2C+3rd+Edition-p-9780471477563) (Paid access)
 
-### 2. Modern Electroplating
-A comprehensive guide on theory and industrial practice.
 > **Schlesinger, M.; Paunovic, M.**
 > *"Modern Electroplating"*, 5th Edition.
 > Wiley, **2010**.
-> 🔗 [DOI Link (Book)](https://doi.org/10.1002/9780470602638)
-
-## Specific Papers (Current Distribution)
-
-### Secondary Distribution Simulation
-> **Dukovic, J.**
-> *"Computation of Current Distribution in Electrodeposition, a Review."*
-> IBM Journal of Research and Development, **1990**, *34* (5), 693-705.
-> 🔗 [DOI Link](https://doi.org/10.1147/rd.345.0693)
+> 🔗 [DOI: 10.1002/9780470602638](https://doi.org/10.1002/9780470602638) (Paid access)
 
 ---
 
-## Software Resources
+## 2. Technical Resources (Open Access)
+*Free documents to understand modeling theory.*
 
-### Antigravity (Python)
-(Note: Placeholder link for this internal project)
-> **Antigravity Engine**
-> *"Proprietary solver for secondary current distribution."*
-> *Internal EQU Research*
+### Current Distribution Theory
+> **COMSOL Multiphysics**
+> *"Theory of Current Distribution"*
+> Extremely detailed documentation on primary, secondary, and tertiary distributions with explanatory diagrams.
+> 🔗 [Online Documentation (Free)](https://www.comsol.com/multiphysics/current-distribution-theory)
+
+> **BioLogic Learning Center**
+> *"Current Distribution: Primary, Secondary and Tertiary"*
+> Pedagogical application note on the influence of geometry and kinetics.
+> 🔗 [BioLogic Link (Free)](https://www.biologic.net/topics/what-is-current-distribution-primary-secondary-and-tertiary-distributions/)

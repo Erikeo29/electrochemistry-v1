@@ -1,41 +1,48 @@
 # Bibliographie : Voltamétrie Cyclique
 
-Cette section regroupe les références académiques majeures et les ressources logicielles utilisées pour ce projet.
+Cette section regroupe les références académiques majeures et des ressources pédagogiques en accès libre.
 
-## Articles Fondateurs (Théorie)
+## 1. Références Académiques (Sources Primaires)
+*Ces articles fondateurs nécessitent souvent un abonnement universitaire.*
 
-### 1. La "Bible" de la CV (Nicholson & Shain)
-L'article qui a établi la théorie moderne de la CV et les critères de réversibilité.
 > **Nicholson, R. S.; Shain, I.**
-> *"Theory of Stationary Electrode Polarography. Single Scan and Cyclic Methods Applied to Reversible, Irreversible, and Kinetic Systems."*
-> Anal. Chem. **1964**, *36* (4), 706–723.
-> 🔗 [Lien DOI (Permanent)](https://doi.org/10.1021/ac60210a007)
+> *"Theory of Stationary Electrode Polarography."*
+> Anal. Chem. **1964**, *36*, 706–723.
+> 🔗 [DOI: 10.1021/ac60210a007](https://doi.org/10.1021/ac60210a007) (Payant)
 
-### 2. L'Équation de Randles
-Publication originale décrivant le courant de pic pour la diffusion linéaire (souvent publiée simultanément avec Sevcik).
 > **Randles, J. E. B.**
-> *"A cathode ray polarograph. Part II.—The current-voltage curves."*
+> *"A cathode ray polarograph. Part II."*
 > Trans. Faraday Soc. **1948**, *44*, 327-338.
-> 🔗 [Lien DOI (Permanent)](https://doi.org/10.1039/TF9484400327)
-
-### 3. Approche Numérique (Feldberg)
-L'introduction des méthodes de différences finies pour l'électrochimie.
-> **Feldberg, S. W.**
-> *"Digital Simulation: A General Method for Solving Electrochemical Diffusion-Kinetic Problems."*
-> Electroanalytical Chemistry, Vol. 3 (Ed: A. J. Bard), Marcel Dekker, New York, **1969**.
+> 🔗 [DOI: 10.1039/TF9484400327](https://doi.org/10.1039/TF9484400327) (Payant)
 
 ---
 
-## Ressources Logicielles
+## 2. Ressources Pédagogiques (Accès Libre)
+*Documents consultables gratuitement pour comprendre la théorie.*
+
+### Cours et Notes Techniques
+> **Heinze, J.**
+> *"Cyclic Voltammetry - Electrochemical Spectroscopy."*
+> Un excellent article de revue expliquant la forme des courbes.
+> 🔗 [Angewandte Chemie (Accès Libre possible selon période)](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.198408311)
+
+> **Elgrishi, N. et al.**
+> *"A Practical Beginner’s Guide to Cyclic Voltammetry."*
+> J. Chem. Educ. **2018**. Un guide moderne et très pédagogique, souvent en Open Access (Editor's choice).
+> 🔗 [DOI: 10.1021/acs.jchemed.7b00361](https://doi.org/10.1021/acs.jchemed.7b00361)
+
+> **C. M. A. Brett & A. M. O. Brett**
+> *"Electrochemistry: Principles, Methods, and Applications."*
+> (Livre de référence souvent disponible en bibliothèque universitaire).
+
+---
+
+## 3. Ressources Logicielles
 
 ### Firedrake (Méthode des Éléments Finis)
-Le framework Python utilisé pour nos simulations CV haute précision.
 > **The Firedrake Project**
-> *"An automated system for the solution of partial differential equations using the finite element method."*
 > 🔗 [Site Officiel](https://www.firedrakeproject.org/)
 
 ### OpenFOAM (Méthode des Volumes Finis)
-La toolbox CFD utilisée pour les simulations fluides.
 > **OpenFOAM**
-> *"The Open Source CFD Toolbox."*
 > 🔗 [Site Officiel](https://www.openfoam.com/)
